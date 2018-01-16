@@ -25,12 +25,16 @@ description: Data is fun; keep learning is the my way to enjoy the fun!
 navbar-links:
   About Me: "aboutme"
   More About Me:
-    - LinkedIn: "www.linkedin.com/in/zhujing"
+    - LinkedIn: "https://www.linkedin.com/in/zhujing"
     - Github: "https://github.com/jzhufd"
     # - email: "jzhufd@gmail.com"
   Resources:
-    - Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    # - Beautiful-Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - R: "https://www.r-project.org/"
+    - RStudio: "https://www.rstudio.com/"
+    - R Markdown: "http://rmarkdown.rstudio.com/"
     - Markdown: "http://www.markdowntutorial.com/"
+    - Anaconda: "https://www.anaconda.com/download/"
     - GitHub: "https://pages.github.com/"
 # Author's home: "http://deanattali.com"
 
