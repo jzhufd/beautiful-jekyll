@@ -27,7 +27,7 @@ navbar-links:
   More About Me:
     - LinkedIn: "www.linkedin.com/in/zhujing"
     - Github: "https://github.com/jzhufd"
-    - Email: "jzhufd@gmail.com"
+    - email: "jzhufd@gmail.com"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -68,7 +68,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jing Z
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -76,10 +76,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  linkedin: zhujing
+  email: "jzhufd@gmail.com"
+#  facebook: daattali
+  github: jzhufd
+  twitter: jzhufd
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -103,7 +104,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "datazhu.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
