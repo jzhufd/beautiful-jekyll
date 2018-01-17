@@ -25,6 +25,7 @@ description: Data is fun; keep learning is the my way to enjoy the fun!
 navbar-links:
   About Me: "aboutme"
   More About Me:
+    - Resume: "JingCV"
     - LinkedIn: "https://www.linkedin.com/in/zhujing"
     - Github: "https://github.com/jzhufd"
     # - email: "jzhufd@gmail.com"
@@ -126,7 +127,7 @@ disqus: "jzhu"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 60
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -160,7 +161,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
-      comments: true
+      comments: false
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
