@@ -15,8 +15,8 @@ My name is Jing and here is me....
   - Good youtube video in replacing Acura TSX brakes. 
   [Front](https://www.youtube.com/watch?v=3C088hOqNo4) [Rear](https://www.youtube.com/watch?v=3mb-E5YsGdg&t=462s) 
   - Personal tips:
-    - Rent as many tools as you can before purchasing
+    - Rent as many tools as you can
     - Crack wheel nuts before lifting your vehicle
-    - Salt makes rust, rust increases the complexity for DIY disc brakes exponentially
+    - Salt makes rust; rust increases the complexity for DIY disc brakes exponentially
     - Power drill/impact driver imporve efficiency significantly
 - To be continued...
