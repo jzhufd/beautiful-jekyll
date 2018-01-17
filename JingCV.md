@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 
 * Start the TOC
