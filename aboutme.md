@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Who am I?
+subtitle: Hope I give you a fun introduction
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jing. I summarized myself in the following lists
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- A guy loves DATA
+  - Force of this website
+- Love travelling
+  - My footmark
+- Love cooking
+  - Sample dishes
+- Love DIY house/car projects 
+  - Good youtube video in replacing Acura TSX brakes. [Link 1](https://www.youtube.com/watch?v=3C088hOqNo4)  [Link 2](https://www.youtube.com/watch?v=3mb-E5YsGdg&t=462s) 
+  [Link 3](https://www.youtube.com/watch?v=Hkx3gM0RYxA)
+  - Personal tips:
+    - Rent as many tools as you can before purchasing
+    - Crack wheel nuts before lifting your vehicle
+    - Salt makes rust, rust increases the complexity for DIY disc brakes exponentially
+    - Power drill/impact driver imporve efficiency significantly
+- To be continued...
