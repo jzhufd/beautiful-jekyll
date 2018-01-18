@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Jing Zhu's Resume
+title: Jing's Resume
 ---
 
 * Start the TOC
