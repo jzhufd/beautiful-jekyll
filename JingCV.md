@@ -13,12 +13,16 @@ title: Jing Zhu's Resume
 - Skilled in communicating analytical results to broad audiences
 - Active learning modern data science technology; think independently and keep improving model performances
 
+## TECHNICAL SKILLS  
+- Modelling: Linear Regression (GLM/Ridge/Lasso), Clustering (SVM/Decision tree), Time series (ARIMA/LSTM), Neutral network (CNN/RNN), Vehicle routing problem (VSP/TSP), survival analysis
+- Tools: SQL, R, Python, SAS, Git, SVN, Tableau, Bash script, Linux/Unix/Mac/Windows OS
+
 ## WORK EXPERIENCE  
 **Senior Manager of Predictive Analytics and Optimization,** _Hub Group, May 2017 ~ Present_
-- Provided advanced analytical analysis to support tactic business decisions and recommend future growth direction
-- Explored various models (ARIMA/LSTM/Neutral network etc.) to predict future demand and pricing trend
-- Developed the automatic routing system with the target of balancing network flow, reducing order turnaround time and maximizing assessment utilization 
-- Supervised team members; communicated model observations to various business departments  
+  - Provided advanced analytical analysis to support tactic business decisions and recommend future growth direction
+  - Explored various models (ARIMA/LSTM/Neutral network etc.) to predict future demand and pricing trend
+  - Developed the automatic routing system with the target of balancing network flow, reducing order turnaround time and maximizing assessment utilization 
+  - Supervised team members; communicated model observations to various business departments  
 
 **Multiple Positions (Manager/Senior Analyst of Analytics),** _United Airlines, Sep 2012 ~ May 2017_
 - Performed as an internal consultant to provide analytical support for various departments within the organization
@@ -30,10 +34,6 @@ title: Jing Zhu's Resume
 **Research Assistant**, _Purdue University, Aug 2007 ~ Aug 2012_
 - Developed time series/Monte Carlo mixed models to test hypothesis and explained the principle of photosynthesis
 - Investigated potential materials and designed computational algorithms for quantum computer
-
-## TECHNICAL SKILLS  
-- Modelling: Linear Regression (GLM/Ridge/Lasso), Clustering (SVM/Decision tree), Time series (ARIMA/LSTM), Neutral network (CNN/RNN), Vehicle routing problem (VSP/TSP), survival analysis
-- Tools: SQL, R, Python, SAS, Git, SVN, Tableau, Bash script, Linux/Unix/Mac/Windows OS
 
 ## VOLUNTEER EXPERIENCE  
 **Referee for Peer-Reviewers Scientific Journals,** _Jan 2012 ~ Present_
