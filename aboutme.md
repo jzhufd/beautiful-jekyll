@@ -21,8 +21,9 @@ My name is Jing. If you want to understand me from the professional perspective,
 
   [![Rear Brakes](http://img.youtube.com/vi/3mb-E5YsGdg/0.jpg)](https://www.youtube.com/watch?v=3mb-E5YsGdg) 
 
-  {% include youtubePlayer.html id=page.3C088hOqNo4 %}
-  
+  {% include youtubePlayer.html id=3C088hOqNo4 %}
+  {% include youtubePlayer.html id=3mb-E5YsGdg %}
+
   - Personal tips:
     - Rent as many tools as you can
     - Crack wheel nuts before lifting your vehicle
