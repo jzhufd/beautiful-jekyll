@@ -13,7 +13,7 @@ title: Jing Zhu's Resume
 - Skilled in communicating analytical results to broad audiences
 - Active learning modern data science technology; think independently and keep improving model performances
 
-## WORK EXPERIENCE
+## WORK EXPERIENCE  
 **Senior Manager of Predictive Analytics and Optimization,** _Hub Group, May 2017 ~ Present_
 - Provided advanced analytical analysis to support tactic business decisions and recommend future growth direction
 - Explored various models (ARIMA/LSTM/Neutral network etc.) to predict future demand and pricing trend
