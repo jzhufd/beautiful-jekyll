@@ -17,7 +17,8 @@ My name is Jing. If you want to understand me from the professional perspective,
 
 - Love DIY house/car projects 
   - Good youtube video in replacing Acura TSX brakes. 
-  [Front Brakes](https://www.youtube.com/watch?v=3C088hOqNo4);  [Rear Brakes](https://www.youtube.com/watch?v=3mb-E5YsGdg&t=462s) 
+  [![Front Brakes](http://img.youtube.com/vi/3C088hOqNo4/0.jpg)](https://www.youtube.com/watch?v=3C088hOqNo4)
+  [![Rear Brakes](http://img.youtube.com/vi/3mb-E5YsGdg/0.jpg)](https://www.youtube.com/watch?v=3mb-E5YsGdg) 
   - Personal tips:
     - Rent as many tools as you can
     - Crack wheel nuts before lifting your vehicle
