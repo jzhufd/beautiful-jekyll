@@ -19,12 +19,14 @@ title: Jing Zhu's Resume
 - Explored various models (ARIMA/LSTM/Neutral network etc.) to predict future demand and pricing trend
 - Developed the automatic routing system with the target of balancing network flow, reducing order turnaround time and maximizing assessment utilization 
 - Supervised team members; communicated model observations to various business departments  
+
 **Multiple Positions (Manager/Senior Analyst of Analytics),** _United Airlines, Sep 2012 ~ May 2017_
 - Performed as an internal consultant to provide analytical support for various departments within the organization
 - Implemented the revenue management prototype to predict future revenue performance/evaluate different pricing/promotion strategies; the prototype includes demand estimation, cancellation forecast, routing optimization
 - Built various statistical/operation models, such as fraud booking alert, customer segmentation, cargo routing etc.
 - Designed/maintained automated dashboards to report/track KPIs for different business departments
 - Reported analytical results and business recommendations to multiple levels of management  
+
 **Research Assistant**, _Purdue University, Aug 2007 ~ Aug 2012_
 - Developed time series/Monte Carlo mixed models to test hypothesis and explained the principle of photosynthesis
 - Investigated potential materials and designed computational algorithms for quantum computer
