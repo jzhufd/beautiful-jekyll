@@ -9,8 +9,8 @@ tags: [blog, website, markdown, GitHub, domain name]
 [//]: # "* Will be replaced with the ToC, excluding the 'Contents' header"
 [//]: # "{:toc}"
 
-I started to build my own website about one week ago, it takes a lot of searching and comparing effort. 
-I am sharing the best practice in my mind in developing you own website. Please find the detailed step-by-step process in the following.
+I started to build my own website about one week ago, it takes a lot of searching and comparing effort.   
+I am sharing the best practice in my mind in developing you own website. Please find the detailed step-by-step process in the following.  
 In my opinion, it is a one day project :) Feel free to leave comments at the bottom.
 
 ### Use GitHub as the host of the website
