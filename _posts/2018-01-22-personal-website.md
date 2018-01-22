@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to build a personal website in 1 day!
+title: How to build the personal website in 1 day!
 [//]: # "subtitle: Learning & Test"
 [//]: # "image: /img/hello_world.jpg"
 tags: [blog, website, markdown, GitHub, domain name]
@@ -47,7 +47,7 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
    			![Github Domain 1](../img/GitHub_Domain_1.png)
          * Scroll down to `GitHub Pages` section → Add your domain name to box under `Custom domain` → Save!
    			![Github Domain 2](../img/GitHub_Domain_2.png)
-            
+
    * Configuration on GoDaddy side.
       	* Log into your GoDaddy account →  Go to `My Domains` → Click the `Manage`
       	 	![Go Daddy Domain 1](../img/GoDaddy_Domain_1.png)
