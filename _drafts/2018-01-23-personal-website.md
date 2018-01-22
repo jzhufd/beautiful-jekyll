@@ -22,14 +22,17 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
    * Click the link above at go to the repository for _Beautiful Jekyll theme_
    * The Fork button is located at the top right corner (right below your username)  
 
-3. Rename the folder forked as <username>.github.io, where the <username> is the github user name you registered at step 1
+3. Rename the folder forked as `<username>.github.io`, where the `<username>` is the github user name you registered at step 1
    * Now your website should be running
-   * Open a new tab in the web browser; input `https:<username>.github.io` and the forked website is there  
+   * Open a new tab in the web browser; input `https:<username>.github.io` and your own website is there!!
 
 4. Customize the website settings
    * The major custom files are located at `\_config.yml`, `aboutme.md` and files in folder `_posts` 
    * The basic markdown tutorial can be found [here](https://www.markdowntutorial.com/)
    * `\_config.yml` has detailed explanation; please go through them line-by-line.
+
+   Following is a nice gif cartoon by [Dean Attali](https://deanattali.com/beautiful-jekyll/)
+   ![Installation steps](img/install-steps.gif)
 
 ### Personalize your website with your own domain name
 1. Register your own domain 
