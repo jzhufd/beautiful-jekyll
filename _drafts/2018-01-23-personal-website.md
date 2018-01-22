@@ -3,7 +3,7 @@ layout: post
 title: How to build a personal website in 1 day!
 [//]: # "subtitle: Learning & Test"
 [//]: # "image: /img/hello_world.jpg"
-tags: [blog, website, exciting-stuff, fun]
+tags: [blog, website, markdown, GitHub, domain name]
 ---
 
 * Will be replaced with the ToC, excluding the "Contents" header
@@ -13,12 +13,12 @@ I started to build my own website about one week ago, it takes a lot of searchin
 I am sharing the best practice in my mind in developing you own website. Please find the detailed step-by-step process in the following.
 In my opinion, it is a one day project :) Feel free to leave comments at the bottom.
 
-### Use github as the host of the website
-1. Register one account at [github.com](https://github.com/)
-   * If you are first time to github, please check this nice tutorial video
+### Use GitHub as the host of the website
+1. Register one account at [GitHub.com](https://github.com/)
+   * If you are first time to GitHub, please check this nice tutorial video
    {% include youtubePlayer.html id="0fKg7e37bQE&t" %}  
 
-2. Fork one of the existing Jekyll themes from github repository. I used Dean Attali's [_Beautiful Jekyll theme_](https://github.com/daattali/beautiful-jekyll)
+2. Fork one of the existing Jekyll themes from GitHub repository. I used Dean Attali's [_Beautiful Jekyll theme_](https://github.com/daattali/beautiful-jekyll)
    * Click the link above at go to the repository for _Beautiful Jekyll theme_
    * The Fork button is located at the top right corner (right below your username)  
 
@@ -53,4 +53,3 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
       	 	![Go Daddy Domain 3](img/GoDaddy_Domain_3.png)
 
 3. Wait a few minutes, type your own domain name into the web browser. :)
-
