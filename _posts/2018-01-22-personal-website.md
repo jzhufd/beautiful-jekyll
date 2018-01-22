@@ -32,7 +32,7 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
    * `\_config.yml` has detailed explanation; please go through them line-by-line.
 
    Following is a gif cartoon showing the detailed process, made by [Dean Attali](https://deanattali.com/beautiful-jekyll/)
-   ![Installation steps](img/install-steps.gif)
+   ![Installation steps](../img/install-steps.gif)
 
 ### Personalize your website with your own domain name
 1. Register your own domain 
@@ -44,12 +44,12 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
    * Use GoDaddy as an example in this tutorial
    * [Configuration](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/) on the GitHub side.  
    		* Log into GitHub account → Go to <username>.github.io repository → Settings → Scroll down to `GitHub Pages` section → Add your domain name to box under `Custom domain` → Save
-   			![Github Domain 1](img/GitHub_Domain_1.png)
-   			![Github Domain 2](img/GitHub_Domain_2.png)
+   			![Github Domain 1](../img/GitHub_Domain_1.png)
+   			![Github Domain 2](../img/GitHub_Domain_2.png)
    * Configuration on GoDaddy side.
       	* Log into your GoDaddy account →  Go to `My Domains` → Click the domain name → Click `Manage DNS` under Domain Settings → Add the following in the Records
-      	 	![Go Daddy Domain 1](img/GoDaddy_Domain_1.png)
-      	 	![Go Daddy Domain 2](img/GoDaddy_Domain_2.png)
-      	 	![Go Daddy Domain 3](img/GoDaddy_Domain_3.png)
+      	 	![Go Daddy Domain 1](../img/GoDaddy_Domain_1.png)
+      	 	![Go Daddy Domain 2](../img/GoDaddy_Domain_2.png)
+      	 	![Go Daddy Domain 3](../img/GoDaddy_Domain_3.png)
 
 3. Wait a few minutes, type your own domain name into the web browser. :)
