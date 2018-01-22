@@ -44,7 +44,7 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
    * Use GoDaddy as an example in this tutorial
    * [Configuration](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/) on the GitHub side.  
 
-   	* Log into GitHub account → Go to <username>.github.io repository → Settings 
+   	* Log into GitHub account → Go to `\<username\>.github.io` repository → Settings 
    			![Github Domain 1](../img/GitHub_Domain_1.png)
 
       * Scroll down to `GitHub Pages` section → Add your domain name to box under `Custom domain` → Save!
