@@ -16,7 +16,7 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
 ### Use GitHub as the host of the website
 1. Register one account at [GitHub.com](https://github.com/)
    * If you are first time to GitHub, please check this nice tutorial video
-   {% include youtubePlayer.html id="0fKg7e37bQE&t" %}  
+   {% include youtubePlayer.html id="0fKg7e37bQE" %}  
 
 2. Fork one of the existing Jekyll themes from GitHub repository. I used Dean Attali's [_Beautiful Jekyll theme_](https://github.com/daattali/beautiful-jekyll)
    * Click the link above at go to the repository for _Beautiful Jekyll theme_
