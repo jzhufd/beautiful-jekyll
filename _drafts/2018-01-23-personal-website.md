@@ -31,14 +31,24 @@ In my opinion, it is a one day project :) Feel free to leave comments at the bot
    * The basic markdown tutorial can be found [here](https://www.markdowntutorial.com/)
    * `\_config.yml` has detailed explanation; please go through them line-by-line.
 
-   Following is a nice gif cartoon by [Dean Attali](https://deanattali.com/beautiful-jekyll/)
+   Following is a gif cartoon showing the detailed process, made by [Dean Attali](https://deanattali.com/beautiful-jekyll/)
    ![Installation steps](img/install-steps.gif)
 
 ### Personalize your website with your own domain name
 1. Register your own domain 
-   * Godaddy, namespace and google domain are all available to register your personal domain, _\*.com_ is highly recommended
-   * Please do not forget to Google whether there is any coupon available
-2. Connect the github website host and your personal domain name. I will use godaddy for example
-   * 
+   * [GoDaddy](https://www.godaddy.com/), [NameCheap](https://www.namecheap.com/) and [Google domain](https://domains.google/#/) are all available to register your personal domain, _\*.com_ is highly recommended
+   * Pick up your preferred domain name and register it. _Please do not forget to Google whether there is any coupon available_
+   * Now you owned your own domain name
+   
+2. Connect the GitHub website with your custom domain name.
+   * Use GoDaddy as an example in this tutorial
+   * [Configuration](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/) on the GitHub side.  
+   		* Log into GitHub account &rightarrow Go to <username>.github.io repository &rightarrow
+   a→→→
+   * Configuration on GoDaddy side.
+      * Log into your GoDaddy account and 
+3. Wait a few minutes, type your own domain name into the web browser. :)
+
+   Following is another gif cartoon showing the whole process
 
 
