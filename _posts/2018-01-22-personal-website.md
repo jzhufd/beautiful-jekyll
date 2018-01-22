@@ -6,8 +6,8 @@ title: How to build a personal website in 1 day!
 tags: [blog, website, markdown, GitHub, domain name]
 ---
 
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
+[//]: # "* Will be replaced with the ToC, excluding the 'Contents' header"
+[//]: # "{:toc}"
 
 I started to build my own website about one week ago, it takes a lot of searching and comparing effort. 
 I am sharing the best practice in my mind in developing you own website. Please find the detailed step-by-step process in the following.
